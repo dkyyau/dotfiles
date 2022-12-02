@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Dorothy Yau
+	email = dorothy.yau@apolitical.co
+[pull]
+	rebase = false
+[core]
+	ignorecase = false
